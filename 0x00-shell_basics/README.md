@@ -5,3 +5,4 @@ Display current directory in long format
 Display current directory contents, including hidden files
 Display current directory contents
 A script that creates a directory name
+Move the file
