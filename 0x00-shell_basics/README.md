@@ -10,3 +10,4 @@ Delete a file
 Delete a Directory
 a script that changes the working directory to the previous one
 script that lists all files
+prints the type of the file named
