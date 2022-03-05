@@ -16,3 +16,4 @@ Script that copies all the HTML files from the current working directory
 script that moves all files beginning with an uppercase letter to the directory
 script that deletes all files in the current working directory
 script that creates dir
+commands that lists all the files and dirs of the current directory
